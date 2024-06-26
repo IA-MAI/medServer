@@ -25,7 +25,10 @@ Simply modify the file iaProcessData.py by adding a new function, adding a new e
 
 ### TODOs:
 
-Add progressbar
+- Add progressbar
+- Server should send the file name as well
+- Fix the webapp to save the file correctly
+
 
 
 
